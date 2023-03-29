@@ -1,7 +1,7 @@
 {
     "enabled": true,
     "acf": {
-        "icao": "A321",
+        "icao": "A20N",
         "author": "Gliding Kiwi"
     },
     "speed": {
@@ -105,8 +105,8 @@
         {
             "template": "No Tailstrike",
             "replace": {
-                "$TAILSTRIKEPITCH": "10.8",
-                "$CAUTIONPITCH": "7.8"
+                "$TAILSTRIKEPITCH": "13.5",
+                "$CAUTIONPITCH": "8.0"
             }
         },
         {
