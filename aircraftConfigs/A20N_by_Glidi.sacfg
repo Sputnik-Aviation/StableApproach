@@ -105,8 +105,8 @@
         {
             "template": "No Tailstrike",
             "replace": {
-                "$TAILSTRIKEPITCH": "13.5",
-                "$CAUTIONPITCH": "8.0"
+                "$TAILSTRIKEPITCH": "12.8",
+                "$CAUTIONPITCH": "7.8"
             }
         },
         {
